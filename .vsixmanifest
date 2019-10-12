@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
+  <Metadata>
+    <Identity Language="en-US" Id="kawaii-theme" Version="1.0.0" Publisher="diff001a"/>
+    <DisplayName>Kawaii Theme</DisplayName>
+    <Description xml:space="preserve">A very sweet and cute theme with pink. enjoy!!</Description>
+    <Tags>theme,pink,cute,dark,color-theme</Tags>
+    <Categories>Themes,Other</Categories>
+    <GalleryFlags>Public</GalleryFlags>
+    <Badges></Badges>
+    <Properties>
+      <Property Id="Microsoft.VisualStudio.Code.Engine" Value="*" />
+      <Property Id="Microsoft.VisualStudio.Code.ExtensionDependencies" Value="" />
+      
+        <Property Id="Microsoft.VisualStudio.Services.Links.Source" Value="https://github.com/diff001a/KawaiiTheme" />
+        <Property Id="Microsoft.VisualStudio.Services.Links.Getstarted" Value="https://github.com/diff001a/KawaiiTheme" />
+        <Property Id="Microsoft.VisualStudio.Services.Links.GitHub" Value="https://github.com/diff001a/KawaiiTheme" />
+        
+      
+      <Property Id="Microsoft.VisualStudio.Services.Links.Support" Value="https://github.com/diff001a/KawaiiTheme/issues" />
+      
+      <Property Id="Microsoft.VisualStudio.Services.Branding.Color" Value="#353042" />
+      <Property Id="Microsoft.VisualStudio.Services.Branding.Theme" Value="dark" />
+      <Property Id="Microsoft.VisualStudio.Services.GitHubFlavoredMarkdown" Value="true" />
+      
+    </Properties>
+    <License>LICENSE.md</License>
+    <Icon>icon.png</Icon>
+  </Metadata>
+  <Installation>
+    <InstallationTarget Id="Microsoft.VisualStudio.Code"/>
+  </Installation>
+  <Dependencies/>
+  <Assets>
+    <Asset Type="Microsoft.VisualStudio.Code.Manifest" Path="package.json" Addressable="true" />
+    <Asset Type="Microsoft.VisualStudio.Services.Content.Details" Path="README.md" Addressable="true" /><Asset Type="Microsoft.VisualStudio.Services.Content.License" Path="LICENSE.md" Addressable="true" /><Asset Type="Microsoft.VisualStudio.Services.Icons.Default" Path="icon.png" Addressable="true" />
+  </Assets>
+</PackageManifest>

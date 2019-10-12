@@ -1,0 +1,47 @@
+{
+  "name": "kawaii",
+  "displayName": "Kawaii",
+  "version": "1.0.0",
+  "publisher": "diff001a",
+  "description": "A very sweet theme for vscode. enjoy :)",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "*"
+  },
+  "auth": {
+    "name": "diff001a",
+    "email": "diff001a@gmail.com",
+    "url": "https://github.com/diff001a"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ftsamoyed/PinkCatBoo"
+  },
+  "bugs": {
+    "url": "https://github.com/ftsamoyed/PinkCatBoo/issues"
+  },
+  "galleryBanner": {
+    "color": "#353042",
+    "theme": "dark"
+  },
+  "categories": [
+    "Themes",
+    "Other"
+  ],
+  "keywords": [
+    "theme",
+    "pink",
+    "cute",
+    "sweet",
+    "dark"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Kawaii",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kawaii.json"
+      }
+    ]
+  }
+}
