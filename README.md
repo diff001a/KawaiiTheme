@@ -1,6 +1,6 @@
-# About Kawaii Theme
+# Kawaii Theme
 
-A sweet and cute theme with pink. Enjoy!
+A sweet and cute theme for VSCode. Enjoy!
 
 ## Screenshot
 
