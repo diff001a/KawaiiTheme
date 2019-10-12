@@ -1,7 +1,7 @@
 {
-  "name": "kawaii",
-  "displayName": "Kawaii",
-  "version": "1.0.0",
+  "name": "kawaii-theme",
+  "displayName": "Kawaii Theme",
+  "version": "1.0.2",
   "publisher": "diff001a",
   "description": "A very sweet theme for vscode. enjoy :)",
   "icon": "icon.png",
@@ -37,10 +37,15 @@
   "contributes": {
     "themes": [
       {
-        "label": "Kawaii",
+        "label": "Kawaii Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/kawaii.json"
       }
     ]
+  },
+  "__metadata": {
+    "id": "93172670-e4b2-4a24-b65f-f223a44fc345",
+    "publisherDisplayName": "diff001a",
+    "publisherId": "0812fed2-99a4-40f9-b427-f63b4d62e295"
   }
 }
