@@ -15,10 +15,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ftsamoyed/PinkCatBoo"
+    "url": "https://github.com/diff001a/KawaiiTheme"
   },
   "bugs": {
-    "url": "https://github.com/ftsamoyed/PinkCatBoo/issues"
+    "url": "https://github.com/diff001a/KawaiiTheme/issues"
   },
   "galleryBanner": {
     "color": "#353042",
@@ -32,7 +32,6 @@
     "theme",
     "pink",
     "cute",
-    "sweet",
     "dark"
   ],
   "contributes": {
