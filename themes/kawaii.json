@@ -36,7 +36,6 @@
     "list.inactiveSelectionBackground": "#ff5c8d55",
     "list.hoverBackground": "#ff5c8d55",
     "list.highlightForeground": "#F8F8F0",
-    "list.errorForeground": "#ff62a5",
     "menu.separatorBackground": "#ea7599",
     "notificationCenter.border": "#ea7599",
     "notificationCenterHeader.background": "#ea7599",
@@ -45,7 +44,6 @@
     "statusBar.debuggingBackground": "#ea7599",
     "statusBar.noFolderBackground": "#ea7599",
     "notificationCenterHeader.foreground": "#ffffff",
-    "notificationLink.foreground": "#ff5c8d",
     "notifications.background": "#6d5d72",
     "peekView.border": "#ff5c8d",
     "panelTitle.activeForeground": "#ffffff",
@@ -57,7 +55,6 @@
     "tab.inactiveBackground": "#2C2638",
     "tab.border": "#9498a144",
     "tab.inactiveForeground": "#9498a1",
-
     "terminal.ansiWhite": "#ffffff",
     "titleBar.activeBackground": "#2C2638"
   },
