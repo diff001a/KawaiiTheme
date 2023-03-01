@@ -40,9 +40,12 @@
     "notificationCenter.border": "#ea7599",
     "notificationCenterHeader.background": "#ea7599",
     "notifications.foreground": "#ea7599",
-    "statusBar.background": "#ea7599",
-    "statusBar.debuggingBackground": "#ea7599",
-    "statusBar.noFolderBackground": "#ea7599",
+    "statusBar.background": "#2C2638",
+    "statusBar.debuggingBackground": "#2C2638",
+    "statusBar.noFolderBackground": "#2C2638",
+    "unused_statusBar.background": "#ea7599",
+    "unused_statusBar.debuggingBackground": "#ea7599",
+    "unused_statusBar.noFolderBackground": "#ea7599",
     "notificationCenterHeader.foreground": "#ffffff",
     "notifications.background": "#6d5d72",
     "peekView.border": "#ff5c8d",
@@ -56,7 +59,13 @@
     "tab.border": "#9498a144",
     "tab.inactiveForeground": "#9498a1",
     "terminal.ansiWhite": "#ffffff",
-    "titleBar.activeBackground": "#2C2638"
+    "titleBar.activeBackground": "#2C2638",
+    "editorBracketHighlight.foreground1": "#FFE175",
+    "editorBracketHighlight.foreground2": "#CE85F8",
+    "editorBracketHighlight.foreground3": "#37e884",
+    "editorBracketHighlight.foreground4": "#ea7599",
+    "editorBracketHighlight.foreground5": "#e5ac40",
+    "editorBracketHighlight.foreground6": "#e53c70"
   },
   "tokenColors": [
     {
